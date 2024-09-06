@@ -1,3 +1,4 @@
+```
 countdown_app/
 │
 ├── app.py                # Ponto de entrada da aplicação
@@ -7,3 +8,4 @@ countdown_app/
 │   └── countdown_model.py       # Modelo que faz o cálculo do tempo
 └── views/
     └── countdown_view.py        # Visão que gera e retorna o GIF
+```
