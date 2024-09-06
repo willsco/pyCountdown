@@ -1,1 +1,4 @@
 /countdown.gif
+__pycache__
+.venv
+.idea
